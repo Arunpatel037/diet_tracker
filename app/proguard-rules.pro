@@ -1,0 +1,3 @@
+-keep class com.dietreminder.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
